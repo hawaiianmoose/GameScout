@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GameScout</string>
+    <string name="API_Key">b2b0df01ff7282d976d7ea33f0492a41</string>
+    <string name="Twitch_client_id">nn7lzsa2emaujcm3qc0483v8qv2ilq</string>
 </resources>
